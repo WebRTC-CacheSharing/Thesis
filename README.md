@@ -7,6 +7,9 @@ WebRTC Cache Sharing System は通信に WebRTC を用いた、ブラウザキ�
 ## 梗概
 論文の概要です。abstract ディレクトリにあります。
 
+## 本論
+論文の本体です。report ディレクトリにあります (予定)。
+
 ## プレゼンテーション
 SlideShare に公開されています。また、presentation ディレクトリにアップロードされています (予定)。
 
